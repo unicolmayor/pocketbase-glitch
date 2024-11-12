@@ -1,0 +1,8 @@
+{
+  "name": "mi-proyecto-pocketbase",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "./pocketbase serve",
+    "setup": "chmod +x ./download.sh && ./download.sh"
+  }
+}
